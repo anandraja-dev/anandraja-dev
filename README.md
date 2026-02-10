@@ -1,7 +1,6 @@
 # Hi 👋, I'm Anandraja
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=AI-Native+Developer;Technical+Writer;Full+Stack+Engineer)](https://git.io/typing-svg)
-
 ### Co-Founder @ Metazapp Solutions | AI-Native Developer | Technical Writer
 
 An engineer passionate about building AI-powered business solutions and sharing knowledge through technical writing 🚀
@@ -23,12 +22,7 @@ An engineer passionate about building AI-powered business solutions and sharing 
 
 ### 📫 How to reach me
 
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/anandraja-dev)
-- 📝 Medium: [@your-medium](https://medium.com/@anandraja-dev)
-- 🐦 Twitter: [@your-twitter](https://twitter.com/anandraja_dev)
-- 📧 Email: anandncs#gmail.com 
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=anandraja-dev&show_icons=true&theme=radical)
-
+- 💼 LinkedIn: [anandraja-dev](https://linkedin.com/in/anandraja-dev)
+- 📝 Medium: [@anandraja-dev](https://medium.com/@anandraja-dev)
+- 🐦 Twitter: [@anandraja_dev](https://twitter.com/anandraja_dev)
+- 📧 Email: anandncs@gmail.com 
